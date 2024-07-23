@@ -19,7 +19,7 @@
   </p>
 </p>
 <p>
-  📣  Precisa entrar em contato comigo? Me encontre aqui: <br/>
+  <h3>📣Precisa entrar em contato comigo? Me encontre aqui: </h3>
   <a href="https://www.instagram.com/_asap_r15_/"><img src="https://img.shields.io/badge/instagram-FF0000.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/alissonr15/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
