@@ -59,3 +59,10 @@
 </p>
   
 ###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Asapr15&locale=en&mode=daily&theme=midnight-purple&hide_border=true&border_radius=12&order=3" height="155" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asapr15&radius=8&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false&point=6a329f&title_color=6a329f" height="300" alt="activity-graph graph"  />
+</div>
+
+###
