@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<h3 align="left">Tecnologias</h3>
+<h3 align="center">Tecnologias</h3>
 
 ###
 
